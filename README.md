@@ -1,6 +1,6 @@
 # Site-Barbearia-com-Bootstrap
 ##
-Site desenvolvido do zero com o foco em "mobile first"!
+Site desenvolvido do zero com o foco no "mobile first"!
 ##
 🔗 https://alanmoreira13.github.io/Site-Barbearia-com-Bootstrap/
 ##
