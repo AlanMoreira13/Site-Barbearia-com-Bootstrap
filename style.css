@@ -223,8 +223,10 @@
     padding: 4em 1em;
 }
 
-#info-content .title {
-    font-size: 1.7em;
+#info-content .title-info {
+        font-size: 1.7em;
+        margin-bottom: 0.4em;
+    
 }
 
 #info-numbers {
