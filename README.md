@@ -7,11 +7,11 @@ a metodologia <strong>mobile first</strong>, podendo colocar em prática meus co
 🔗 https://alanmoreira13.github.io/Site-Barbearia-com-Bootstrap/
 ##
 Techs:<br>
-✔ BOOTSTRAP<br>
-✔ CSS<br>
-✔ HTML<br>
-✔ BOOTSTRAP ICONS<br>
-✔ FAVICON<br>
+✔BOOTSTRAP<br>
+✔CSS<br>
+✔HTML<br>
+✔BOOTSTRAP ICONS<br>
+✔FAVICON<br>
 ##
 
 ![Captura de Tela (34)](https://user-images.githubusercontent.com/88805398/162529528-9bc77565-58a3-4f92-95f0-06b5eb28a971.png)
