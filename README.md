@@ -1,6 +1,8 @@
 # Site-Barbearia-com-Bootstrap
 ##
-Site desenvolvido do zero com o foco no "mobile first"!
+Site desenvolvido do zero com o foco no "<em>mobile first</em>"!<br>
+Foi muito bom desenvolver este site, pelo uso de Bootstrap e também por seguir <br>
+a metodologia <strong>mobile first</strong>, podendo colocar em prática meus conhecimentos!
 ##
 🔗 https://alanmoreira13.github.io/Site-Barbearia-com-Bootstrap/
 ##
