@@ -4,7 +4,7 @@ Site desenvolvido do zero com o foco no "<em>mobile first</em>"!<br>
 Foi muito bom desenvolver este site, pelo uso de Bootstrap e também por seguir <br>
 a metodologia <strong>mobile first</strong>, podendo colocar em prática meus conhecimentos!
 ##
-🔗 https://alanmoreira13.github.io/Site-Barbearia-com-Bootstrap/
+🔗Link do site: <a href="https://alanmoreira13.github.io/Site-Barbearia-com-Bootstrap/">ForHall Barbearia</a>
 ##
 Techs:<br>
 ✔BOOTSTRAP<br>
